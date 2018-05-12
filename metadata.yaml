@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '26620'
     url: http://www.gutenberg.org/2009/agents/26620
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24619#O-passeio-dos-bardos-ao-Baldeador
 gutenberg_bookshelf: PT Poesia
 gutenberg_issued: '2008-02-15'
 gutenberg_type: Text
