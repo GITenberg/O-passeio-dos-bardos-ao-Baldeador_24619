@@ -1,0 +1,26 @@
+_repo: O-passeio-dos-bardos-ao-Baldeador_24619
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Costa, Floriano Alves da
+    birthdate: 1825
+    gutenberg_agent_id: '26620'
+    url: http://www.gutenberg.org/2009/agents/26620
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2008-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24619'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese poetry'
+title: O passeio dos bardos ao Baldeador
+url: http://www.gutenberg.org/ebooks/24619
